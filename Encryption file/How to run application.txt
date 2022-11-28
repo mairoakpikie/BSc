@@ -1,0 +1,9 @@
+These are the processes involved to run this application;
+
+1. Install dotNetFx40_Full_x86_x64.exe application (If you are running a windows 7 OS)
+
+2. Run the ServerHostTest.exe application to open port 25000
+
+3. Run the TranSec.exe application to open the main software
+
+*************************************************************************************************************************************************************************** 
